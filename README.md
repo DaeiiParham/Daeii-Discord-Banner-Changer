@@ -1,4 +1,4 @@
-# Discord_Banner_Changer
+# Daeii_Discord_Banner_Changer
 
 📝 **لوازم مورد نیاز** 📝
 
